@@ -1,6 +1,6 @@
 # Go-so
 
-This is an example project to show how to dynamically load `.so` library in Go.
+This is an example project showing how to dynamically load `.so` library in Go.
 
 ## Usage
 
